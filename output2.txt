@@ -1,0 +1,5 @@
+Container stores 4 movies:
+Fiction film: name - Avatar, year of release - 2009, director - Cameron
+Fiction film: name - Matrix, year of release - 1999, director - Wachowski
+Documentary film: name - Zeitgeist, year of release - 2007, duration - 123
+Animation film: name - Plasticine_crow, year of release - 1981, animation type - plasticine

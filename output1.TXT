@@ -1,0 +1,5 @@
+Container stores 4 movies:
+Animation film: name - random_name_#862, year of release - 1905, animation type - painted
+Animation film: name - random_name_#6821, year of release - 1925, animation type - plasticine
+Documentary film: name - random_name_#3757, year of release - 1913, duration - 50
+Documentary film: name - random_name_#2533, year of release - 1908, duration - 139
