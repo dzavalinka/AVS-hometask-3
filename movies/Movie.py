@@ -5,8 +5,8 @@ class Movie(object):  # Базовый класс для всех фильмов
 
     def __init__(self, input_string):  # Конструктор, в строковом параметре
         # через пробел содержатся название фильма и год выпуска.
-        self.name = input_string.split(sep=' ')[0]
-        self.year = int(input_string.split(sep=' ')[1])
+        self.name = input_string.split(sep=' ')[1]
+        self.year = int(input_string.split(sep=' ')[2])
 
     def function(self):  # Функция общая для всех альтернатив.
         return self.year / len(self.name)
@@ -25,7 +25,7 @@ class AnimationFilm(Movie):  # Класс для описания анимаци
 
     def __init__(self, input_string):
         Movie.__init__(self, input_string)
-        self.animation_type = AnimationType(int(input_string.split(sep=' ')[2])).name
+        self.animation_type = AnimationType(int(input_string.split(sep=' ')[3])).name
 
     def to_string(self):
         return 'Animation film: name - {}, year of release - {}, ' \
@@ -36,7 +36,7 @@ class Documentary(Movie):  # Класс для описания документ
 
     def __init__(self, input_string):
         Movie.__init__(self, input_string)
-        self.length = input_string.split(sep=' ')[2]
+        self.length = input_string.split(sep=' ')[3]
 
     def to_string(self):
         return 'Documentary film: name - {}, year of release - {},' \
@@ -47,7 +47,7 @@ class FictionFilm(Movie):  # Класс для описания игрового
 
     def __init__(self, input_string):  # Конструктор, ссылающийся на конструктор базового класса
         Movie.__init__(self, input_string)
-        self.director = input_string.split(sep=' ')[2]  # Признак альтернативы игрового фильма - режиссер.
+        self.director = input_string.split(sep=' ')[3]  # Признак альтернативы игрового фильма - режиссер.
 
     def to_string(self):  # Переопределенный метод для получения строкового представления объекта типа FictionFilm.
         return 'Fiction film: name - {}, year of release - {}, director - {}'.format(self.name,
