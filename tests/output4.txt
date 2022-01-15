@@ -1,100 +1,101 @@
-Container stores 99 movies:
-Fiction film: name - eKPV, year of release - 2010, director - OXHA
-Animation film: name - JESi, year of release - 1999, animation type - painted
-Fiction film: name - oJfA, year of release - 1996, director - UEOAYNJE
-Fiction film: name - vE1q, year of release - 1958, director - HOAJRGDIO
-Documentary film: name - Sc5g, year of release - 1943, duration - 165
-Documentary film: name - Rdrc, year of release - 1943, duration - 53
-Fiction film: name - 79zn, year of release - 1932, director - AXKOBPLXZIHF
-Animation film: name - dfsW, year of release - 1931, animation type - plasticine
-Animation film: name - 5vLx, year of release - 1900, animation type - plasticine
-Documentary film: name - EE28, year of release - 1895, duration - 57
-Animation film: name - 1O4sB, year of release - 2021, animation type - plasticine
-Documentary film: name - 4NTaZ, year of release - 2017, duration - 223
-Animation film: name - wvixx, year of release - 2002, animation type - painted
-Animation film: name - j61Gf, year of release - 1999, animation type - painted
-Documentary film: name - ha7JM, year of release - 1988, duration - 35
-Documentary film: name - kfU1i, year of release - 1979, duration - 225
-Documentary film: name - oU8BX, year of release - 1977, duration - 147
-Fiction film: name - kLL5V, year of release - 1976, director - MONCSQNKUZH
-Fiction film: name - Jts6b, year of release - 1973, director - DEMWI
-Documentary film: name - JSSWZ, year of release - 1939, duration - 188
-Animation film: name - Ae5EB, year of release - 1932, animation type - painted
-Documentary film: name - KXzek, year of release - 1928, duration - 163
-Fiction film: name - 4KYtv, year of release - 1910, director - YYNHW
-Documentary film: name - 4YkOC, year of release - 1907, duration - 204
-Documentary film: name - UaxgRB, year of release - 1981, duration - 204
-Animation film: name - AuKdB4, year of release - 1964, animation type - plasticine
-Fiction film: name - unNG30, year of release - 1946, director - WZOYJZILJ
-Documentary film: name - LR4oon, year of release - 1940, duration - 192
-Fiction film: name - UdEB6e, year of release - 1925, director - UGPDRS
-Fiction film: name - PN0Biq, year of release - 1904, director - AUZCPHMTVLWLPEG
-Fiction film: name - R1UIhr, year of release - 1895, director - ZITGAJRYSIBAMM
-Documentary film: name - plGf2yL, year of release - 1968, duration - 109
-Documentary film: name - KDNjbYt, year of release - 1940, duration - 148
-Documentary film: name - MhC39gT, year of release - 1939, duration - 76
-Fiction film: name - 6eEPn4G, year of release - 1934, director - AAFYSPYGQTABQI
-Animation film: name - AFJBk8NM, year of release - 2017, animation type - puppet
-Fiction film: name - WgujGC3F, year of release - 2011, director - LGVJVKCUHQTS
-Animation film: name - MGQf0Xsd, year of release - 2003, animation type - painted
-Animation film: name - pdwZQumj, year of release - 1995, animation type - painted
-Fiction film: name - eqVdW9ck, year of release - 1992, director - UDTNYND
-Animation film: name - clkhakcs, year of release - 1983, animation type - painted
-Fiction film: name - rRTAwv20, year of release - 1979, director - OCCNRU
-Documentary film: name - TJtGKBaP, year of release - 1965, duration - 202
-Animation film: name - OIHYhlpE, year of release - 1961, animation type - plasticine
-Documentary film: name - 6LOSswPp, year of release - 1947, duration - 137
-Fiction film: name - STSkLx44, year of release - 1925, director - BTRLGN
-Fiction film: name - Sgj83J8e, year of release - 1925, director - WQWWCVGJD
-Fiction film: name - vbYa3dIX, year of release - 1922, director - GRITBHWTV
-Fiction film: name - Xtlu7BtD9, year of release - 2003, director - CKAZWH
-Fiction film: name - WTPSFLll5, year of release - 1984, director - MVPSSQEKA
-Documentary film: name - fvWyFwGIU, year of release - 1971, duration - 126
-Fiction film: name - eGGbXTlsy, year of release - 1963, director - RFTIZAYUR
-Documentary film: name - 9GnNDiqwl, year of release - 1961, duration - 230
-Documentary film: name - Elxy2LkRT, year of release - 1944, duration - 202
-Fiction film: name - KEu5d6gXS, year of release - 1938, director - IGUAGJLCSLKRZR
-Fiction film: name - d0POgEF9i, year of release - 1918, director - KQGWAFGVK
-Fiction film: name - GZ6BpAbQ8J, year of release - 2022, director - XMRMZEISV
-Fiction film: name - ll8LjUxeKI, year of release - 1984, director - PCLOCRTTWA
-Animation film: name - knYE8Hm7yZ, year of release - 1978, animation type - painted
-Animation film: name - fZxRafnlc7, year of release - 1945, animation type - painted
-Animation film: name - QKGMzY9SgT, year of release - 1925, animation type - painted
-Documentary film: name - ALWs8QnAdb, year of release - 1923, duration - 179
-Fiction film: name - 5ZaYouzq90, year of release - 1914, director - OOCZRIBUYM
-Fiction film: name - L5UpLI9LdO, year of release - 1908, director - DXBON
-Documentary film: name - QyTsh4WsWy, year of release - 1906, duration - 161
-Fiction film: name - mPOea2DBBD, year of release - 1901, director - LKHCLRBZKKM
-Fiction film: name - neGB1E0FkIT, year of release - 2016, director - AMGSJ
-Fiction film: name - sMGNNt1qBa1, year of release - 2004, director - URQZOBH
-Fiction film: name - xQq4QjQbii6, year of release - 2004, director - GIUTLNJMJB
-Documentary film: name - Szb5tWbx1OP, year of release - 1996, duration - 137
-Fiction film: name - VBbaa9YY5rq, year of release - 1990, director - DKTVHRKHRW
-Fiction film: name - 5c7qmyNyqDx, year of release - 1985, director - MDOMACPEHLY
-Fiction film: name - LlxRGhHH83a, year of release - 1898, director - LZSSFYCQIKBHYB
-Animation film: name - mnqFY1FcLMUk, year of release - 2014, animation type - plasticine
-Fiction film: name - zAxwanWjM7t5, year of release - 1995, director - TAPWAOIIHVYDFDK
-Fiction film: name - OkejOePIhl0R, year of release - 1951, director - MEOUHVAHOA
-Fiction film: name - 9t1bME9Q6tDa, year of release - 1926, director - YNVII
-Fiction film: name - 7aKkkscYIU6v, year of release - 1914, director - XUCIREHVNMZP
-Animation film: name - p7t18kocVzCr, year of release - 1910, animation type - plasticine
-Fiction film: name - FRVRv8rYH9oW, year of release - 1906, director - LLWHDMBZRPQUYE
-Animation film: name - FZT1TRtYCgrr9, year of release - 2007, animation type - painted
-Documentary film: name - sdYcQ2fcdq5x0, year of release - 1976, duration - 178
-Documentary film: name - 8G9vPnTZsSAzO, year of release - 1973, duration - 206
-Documentary film: name - riOyEONjHoQWb, year of release - 1938, duration - 221
-Fiction film: name - TutC2KJHzfihW, year of release - 1930, director - TTCICQLXRRMCOJY
-Fiction film: name - hpT8KfDy2Q4wG, year of release - 1917, director - EUVMQWBLTW
-Documentary film: name - hcxtfwB31sT8Z, year of release - 1897, duration - 18
-Documentary film: name - jUnX34V6BqP7ey, year of release - 2001, duration - 182
-Documentary film: name - KJsagblidCkMWi, year of release - 1978, duration - 228
-Fiction film: name - dww3xjlfT1nEOR, year of release - 1976, director - UTVECDVECCSJGXG
-Animation film: name - 2V5WBT5fXa1FOy, year of release - 1973, animation type - plasticine
-Fiction film: name - nZ9Agv5Pbu0eEU, year of release - 1932, director - NBGHLUOGLCUP
-Animation film: name - 80UkznuwuvNyk3, year of release - 1924, animation type - painted
-Animation film: name - zzy1ybgIL8V0MZh, year of release - 2006, animation type - puppet
-Fiction film: name - eaU85bNUK6o9Z0W, year of release - 1988, director - SGGXQA
-Fiction film: name - ISnJIY0zRZ9obqr, year of release - 1987, director - VZLGDUMGKFB
-Animation film: name - vZzsfnwSVR9U5aT, year of release - 1981, animation type - puppet
-Documentary film: name - PAk6Iipynxo6Au4, year of release - 1953, duration - 149
-Documentary film: name - RaOrgCvOOwVmtku, year of release - 1935, duration - 230
+Container stores 100 movies:
+Animation film: name - GUFKFfZGlvzp2Z6, year of release - 1910, animation type - painted
+Animation film: name - vOXi4I1QKNENJKB, year of release - 2005, animation type - puppet
+Fiction film: name - SJy9wmk8bdzuXLv, year of release - 2017, director - WYAIYBUKSPI
+Documentary film: name - pGAFP1KDILRPD3i, year of release - 2020, duration - 80
+Documentary film: name - gX3reVHSAoYrNMi, year of release - 2021, duration - 32
+Animation film: name - GBKQdTxzNyBHnd, year of release - 1902, animation type - plasticine
+Fiction film: name - HcpNUjtgiHZpxQ, year of release - 1950, director - IKCAW
+Fiction film: name - 1j2xkCib9WrE7k, year of release - 1953, director - WRFBNWIVHGRE
+Documentary film: name - BT1Q9lKaKXldC8, year of release - 1974, duration - 133
+Animation film: name - c2NqmhuBOuM9ZO, year of release - 1981, animation type - painted
+Documentary film: name - iHdqVSXvyuwp8d, year of release - 1982, duration - 51
+Animation film: name - hrfzwd5lrW6s5h, year of release - 1984, animation type - plasticine
+Documentary film: name - x6NiKMPdqonZ6H, year of release - 1989, duration - 215
+Fiction film: name - 4udoklss3CbeXA, year of release - 1995, director - QNZCGMANEKBS
+Fiction film: name - 4EmCJmXahOPsku, year of release - 2017, director - IOIDWPOPBFJWYI
+Documentary film: name - MTn1T62qnI5N1, year of release - 1946, duration - 189
+Documentary film: name - DpsquPqODOSCW, year of release - 1981, duration - 220
+Animation film: name - p7dRgMCS0xIdH, year of release - 2016, animation type - plasticine
+Fiction film: name - GKy7wSO1xlJRA, year of release - 2017, director - UKHXPQBWMLK
+Fiction film: name - M5CfNV1YVUXy, year of release - 1917, director - FQAKPHVOQCVX
+Fiction film: name - VCZ89ejLpdhs, year of release - 1918, director - LINXKBR
+Fiction film: name - upYD0RsB0twl, year of release - 1918, director - LTVNHSK
+Fiction film: name - yBS7AJQ9cjNR, year of release - 1920, director - FZGSBTKMIWJUX
+Fiction film: name - 5ldXNT1N7VkH, year of release - 1923, director - CSKREKNANKFYLDA
+Animation film: name - BzP5ZYzuQKib, year of release - 1936, animation type - plasticine
+Animation film: name - fLMlnRYPDEyv, year of release - 1951, animation type - plasticine
+Animation film: name - 1aFnkA4SS9Mm, year of release - 2002, animation type - painted
+Fiction film: name - glNMVKJTTALw, year of release - 2012, director - TEBGJNCS
+Fiction film: name - xnAbokFQlt0, year of release - 1911, director - XQBLXRQG
+Fiction film: name - UB1Jz9nPB3G, year of release - 1952, director - IPAKXIE
+Documentary film: name - jvR4hQCd5Yc, year of release - 1955, duration - 146
+Documentary film: name - nLuSK1D00Su, year of release - 1961, duration - 199
+Animation film: name - 7Ko8UDCpVfA, year of release - 1979, animation type - plasticine
+Animation film: name - PyslvKqbuh1, year of release - 1993, animation type - plasticine
+Animation film: name - xn0VNNiLXWV, year of release - 2012, animation type - plasticine
+Fiction film: name - x3mV06R1Pjf, year of release - 2017, director - XVTVFCBKJG
+Fiction film: name - lPrvJI1qOTj, year of release - 2018, director - KYFADC
+Animation film: name - 4k2oMSS25IC, year of release - 2020, animation type - plasticine
+Fiction film: name - vcw51sm3qv, year of release - 1898, director - CVCYQ
+Documentary film: name - ASRwubr8Ug, year of release - 1902, duration - 46
+Documentary film: name - p8FX0vORsV, year of release - 1917, duration - 127
+Documentary film: name - HRMhTWMo4a, year of release - 1921, duration - 58
+Fiction film: name - aN5fYwc6IJ, year of release - 1947, director - NJQUKMLG
+Documentary film: name - PE3n3Nfpes, year of release - 1956, duration - 75
+Fiction film: name - a7LJaV5JIf, year of release - 1957, director - DOCBJQCPGTLE
+Fiction film: name - mUjRy4VtmQ, year of release - 1964, director - XNKJGVDBRQD
+Animation film: name - LvIqleJw5C, year of release - 1968, animation type - plasticine
+Fiction film: name - INYdBp42Ft, year of release - 1979, director - EZNXFFOZSMSYA
+Fiction film: name - G5oucQlNth, year of release - 1980, director - HPXIYRTL
+Fiction film: name - FXhOKBu7P, year of release - 1904, director - OZIJUTQHO
+Documentary film: name - nbtS5u04i, year of release - 1929, duration - 48
+Fiction film: name - 8FpuavfE0, year of release - 1931, director - WBBUPWXCYUE
+Fiction film: name - FIUy2MdUQ, year of release - 1939, director - PJIOINDUUC
+Fiction film: name - QjkgVtyjG, year of release - 1947, director - DUSETSTNETTQJ
+Animation film: name - hwxFgA2JA, year of release - 1973, animation type - plasticine
+Documentary film: name - 6J4cvDx7D, year of release - 1986, duration - 166
+Fiction film: name - ikWI4bXjy, year of release - 2008, director - PAFFXG
+Animation film: name - jdtigsg2, year of release - 1897, animation type - painted
+Animation film: name - BKrTJfAI, year of release - 1922, animation type - puppet
+Fiction film: name - LI10gfGh, year of release - 1927, director - RPZKJDSREWHH
+Documentary film: name - L5js6ENg, year of release - 1948, duration - 129
+Animation film: name - bcO1wPE7, year of release - 1954, animation type - painted
+Animation film: name - 4InVLQKf, year of release - 2003, animation type - plasticine
+Animation film: name - 8US32Sl0, year of release - 2013, animation type - plasticine
+Fiction film: name - Ir34AvK, year of release - 1897, director - ACHLGFYV
+Documentary film: name - BN9WVEh, year of release - 1915, duration - 198
+Animation film: name - CYRzlIl, year of release - 1926, animation type - puppet
+Documentary film: name - miNemlb, year of release - 1936, duration - 200
+Documentary film: name - cakwD65, year of release - 1940, duration - 50
+Documentary film: name - aOpvi6k, year of release - 1963, duration - 189
+Animation film: name - xQgjhIx, year of release - 1963, animation type - painted
+Animation film: name - 4lRI2nD, year of release - 1977, animation type - plasticine
+Documentary film: name - gvbYxln, year of release - 1978, duration - 26
+Fiction film: name - MRyiIus, year of release - 1990, director - JYFFTBZUYLZXEQ
+Fiction film: name - Zf71xZI, year of release - 2001, director - BPRBW
+Documentary film: name - cQ1gRed, year of release - 2006, duration - 87
+Documentary film: name - VGta0YH, year of release - 2019, duration - 74
+Fiction film: name - CQnkjf, year of release - 1895, director - KGBIOMCBX
+Animation film: name - jNBSvi, year of release - 1935, animation type - puppet
+Fiction film: name - LFWFK1, year of release - 1940, director - IPETBOWMVVDGJZ
+Animation film: name - WA50y6, year of release - 1955, animation type - plasticine
+Animation film: name - lUrXXL, year of release - 1960, animation type - painted
+Fiction film: name - qXwSGf, year of release - 1982, director - MDOHUPQKH
+Documentary film: name - P03Edd, year of release - 1992, duration - 158
+Documentary film: name - a55s7, year of release - 1904, duration - 196
+Fiction film: name - sfvbU, year of release - 1916, director - CZVODQEICDJF
+Animation film: name - KSg1L, year of release - 1917, animation type - plasticine
+Fiction film: name - a50ll, year of release - 1925, director - FQOI
+Documentary film: name - mIvWP, year of release - 1942, duration - 119
+Fiction film: name - qMlZI, year of release - 1950, director - WBVVCMLHFPUNHNS
+Fiction film: name - IaB03, year of release - 1961, director - AOUHMTW
+Documentary film: name - j8BI4, year of release - 1969, duration - 192
+Animation film: name - nfy5P, year of release - 1977, animation type - puppet
+Documentary film: name - pRedK, year of release - 1985, duration - 232
+Fiction film: name - Die5m, year of release - 1997, director - JEULCNKVHWACDYK
+Documentary film: name - 6CNf, year of release - 1901, duration - 76
+Fiction film: name - HhXq, year of release - 1917, director - IORUBGJCEUHED
+Fiction film: name - xt9D, year of release - 1925, director - ARVNDFYDRC
+Animation film: name - EKtw, year of release - 1942, animation type - painted
+Documentary film: name - R5M9, year of release - 1952, duration - 11
