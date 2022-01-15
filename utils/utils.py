@@ -8,19 +8,19 @@ def read_input(input_string):  # Функция, которая по данны�
     res = []
     lines = input_string.split('\n')
     counter = 0
-    while counter < len(lines) - 1:
+    while counter < len(lines)-1:
         line = lines[counter]
-        key = int(line)
+        key = int(line.split(sep=' ')[0])
         if key == 1:  # Признак игрового фильма
-            res.append(Movie.FictionFilm(lines[counter + 1]))
+            res.append(Movie.FictionFilm(lines[counter]))
         elif key == 2:  # Признак анимационного фильма
-            res.append(Movie.AnimationFilm(lines[counter + 1]))
+            res.append(Movie.AnimationFilm(lines[counter]))
         elif key == 3:  # Признак документального фильма
-            res.append(Movie.Documentary(lines[counter + 1]))
+            res.append(Movie.Documentary(lines[counter]))
         else:
             print('Incorrect input')
             exit()
-        counter += 2
+        counter += 1
     return res
 
 
@@ -35,7 +35,7 @@ def insertion_sort(container):  # Функция, сортирующая фил�
     for k in range(1, len(container)):
         key = container[k]
         j = k - 1
-        while j >= 0 and key.function() < container[j].function():
+        while j >= 0 and key.function() > container[j].function():
             container[j + 1] = container[j]
             j -= 1
         container[j + 1] = key
@@ -45,7 +45,7 @@ def insertion_sort(container):  # Функция, сортирующая фил�
 def generate_random_test(ostream):
     key = randint(1, 3)
     ostream.write('{}'.format(key))
-    ostream.write('\n')
+    ostream.write(' ')
     name = ''.join(
         random.choices(string.ascii_uppercase + string.digits + string.ascii_lowercase, k=randint(4, 15)))
     year = randint(1895, 2022)
